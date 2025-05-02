@@ -11,7 +11,8 @@
 
 ### 💻 Languages
 
-<p align="left">
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 4px;">
+
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -24,11 +25,13 @@
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
   <img src="https://img.shields.io/badge/Shell-89E051?style=for-the-badge&logo=gnu&logoColor=black"/>
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
+
 </p>
 
 ### 🧩 Frameworks & Libraries
 
-<p align="left">
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 4px;">
+
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/MyBatis-1F425F?style=for-the-badge&logoColor=white"/>
@@ -40,11 +43,13 @@
   <img src="https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=grpc&logoColor=white"/>
   <img src="https://img.shields.io/badge/SwiftUI-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white"/>
+
 </p>
 
 ### 🗄️ Databases & Messaging
 
-<p align="left">
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 4px;">
+
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -52,11 +57,13 @@
   <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
   <img src="https://img.shields.io/badge/RocketMQ-F56B00?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Zookeeper-FF6F00?style=for-the-badge&logoColor=white"/>
+
 </p>
 
 ### ☁️ Tools & Cloud
 
-<p align="left">
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 4px;">
+
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
@@ -68,6 +75,7 @@
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
   <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+
 </p>
 
 ---
