@@ -12,8 +12,7 @@
 ### 💻 Languages
 
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 4px;">
-
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
@@ -25,13 +24,11 @@
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white"/>
   <img src="https://img.shields.io/badge/Shell-89E051?style=flat&logo=gnu&logoColor=black"/>
   <img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white"/>
-
 </p>
 
 ### 🧩 Frameworks & Libraries
 
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 4px;">
-
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/MyBatis-1F425F?style=flat&logoColor=white"/>
@@ -43,13 +40,11 @@
   <img src="https://img.shields.io/badge/gRPC-4285F4?style=flat&logo=grpc&logoColor=white"/>
   <img src="https://img.shields.io/badge/SwiftUI-FA7343?style=flat&logo=swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/UIKit-2396F3?style=flat&logo=apple&logoColor=white"/>
-
 </p>
 
 ### 🗄️ Databases & Messaging
 
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 4px;">
-
   <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/>
@@ -57,13 +52,11 @@
   <img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white"/>
   <img src="https://img.shields.io/badge/RocketMQ-F56B00?style=flat&logoColor=white"/>
   <img src="https://img.shields.io/badge/Zookeeper-FF6F00?style=flat&logoColor=white"/>
-
 </p>
 
 ### ☁️ Tools & Cloud
 
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 4px;">
-
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>
@@ -75,7 +68,6 @@
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white"/>
   <img src="https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
-
 </p>
 
 ---
@@ -109,8 +101,8 @@ Meal tracker using CoreML for food recognition and GPT-4o for personalized nutri
 ## 📢 Contact
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ertong-wei/)
+- 🌐 [Portfolio](https://ertongwei.dev/)
 - 📧 brianweiet@gmail.com
-- 🌐 [Portfolio Website](https://ertongwei.dev/)
 
 ---
 
