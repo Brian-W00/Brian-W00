@@ -70,24 +70,24 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
 </p>
 
----
+<!-- ---
 
 ## 🔧 Featured Projects
 
 ### 🪹 Bytecoin
 
-A full-featured cryptocurrency built from scratch with UTXO, P2P networking, mining, and digital signatures  
+A full-featured cryptocurrency built from scratch with UTXO, P2P networking, mining, and digital signatures
 [🔗 GitHub Repo](https://github.com/yourusername/bytecoin)
 
 ### 📊 Reddit LLM Perception Analysis
 
-Topic modeling and sentiment analysis of Reddit discussions to analyze public perceptions of large language models  
+Topic modeling and sentiment analysis of Reddit discussions to analyze public perceptions of large language models
 [🔗 GitHub Repo](https://github.com/yourusername/llm-reddit-analysis)
 
 ### 🍱️ iOS Health App
 
-Meal tracker using CoreML for food recognition and GPT-4o for personalized nutrition suggestions  
-[🔗 GitHub Repo](https://github.com/yourusername/health-tracker-ios)
+Meal tracker using CoreML for food recognition and GPT-4o for personalized nutrition suggestions
+[🔗 GitHub Repo](https://github.com/yourusername/health-tracker-ios) -->
 
 ---
 
