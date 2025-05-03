@@ -97,16 +97,14 @@ Meal tracker using CoreML for food recognition and GPT-4o for personalized nutri
 ![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brian-W00&show_icons=true&theme=github_dark&hide_rank=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brian-W00&layout=compact&theme=github_dark) -->
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Brian-W00&show_icons=true&theme=github_dark&hide_rank=true&cache_bust=1" alt="GitHub Stats" height="200"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brian-W00&layout=compact&theme=github_dark&cache_bust=1" alt="Top Languages" height="200"/>
-    </td>
-  </tr>
-</table>
+<table><tr>
+  <td align="center" valign="top">
+    <img src="https://github-readme-stats.vercel.app/api?username=Brian-W00&show_icons=true&theme=github_dark&hide_rank=true&cache_bust=1" alt="GitHub Stats" height="200"/>
+  </td>
+  <td align="center" valign="top">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brian-W00&layout=compact&theme=github_dark&cache_bust=1" alt="Top Languages" height="200"/>
+  </td>
+</tr></table>
 
 ---
 
