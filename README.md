@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Ertong Wei
 
+💻 SDE @ Amazon
 🎓 Master’s student in Computational Social Science @ University of Chicago  
-💻 Honors Bachelor of Science in Computer Science @ University of Toronto  
-🚀 Passionate about backend systems, blockchain development, and intelligent apps  
-📅 Graduating in June 2025 — Actively seeking full-time SWE roles
+🚀 Honors Bachelor of Science in Computer Science @ University of Toronto   
 
 ---
 
